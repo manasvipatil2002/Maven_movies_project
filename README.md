@@ -97,7 +97,7 @@ Retrieve customer first name, last name, and email ID.
 ![Payments Over $5](https://github.com/manasvipatil2002/Maven_movies_project/blob/main/Code%20Output/OLD_CUSTOMER_OVER_5%24.png)
 
 ### 15. Payments Over $5 for Specific Customers
-![Payments Over $5](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/PAYMENTS_OVER_%245.png)
+![Payments Over $5](https://github.com/manasvipatil2002/Maven_movies_project/blob/main/Code%20Output/OVER_5_DOLLAR.png)
 
 ### 16. Films with 'Behind the Scenes' Special Feature
 ![Behind the Scenes Films](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/BTS.png)
