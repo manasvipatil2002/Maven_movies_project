@@ -136,6 +136,6 @@ Retrieve customer first name, last name, and email ID.
 ![Actors per Title](https://github.com/manasvipatil2002/Maven_movies_project/blob/main/Code%20Output/INVESTOR_REQUEST.png)
 
 ### 28. List of Staff and Advisors
-![Staff and Advisors](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNION.png)
+![Staff and Advisors](https://github.com/manasvipatil2002/Maven_movies_project/blob/main/Code%20Output/CONFERENCE_LIST.png)
 
 ---
