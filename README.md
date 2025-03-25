@@ -88,7 +88,7 @@ Retrieve customer first name, last name, and email ID.
 ![Rentals Per Month](https://github.com/manasvipatil2002/Maven_movies_project/blob/main/Code%20Output/RENTALS_PER_MONTH.png)
 
 ### 12. Customers Eligible for Rewards
-![Reward Eligible Customers](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REWARD_VIA_PHONE.png)
+![Reward Eligible Customers](https://github.com/manasvipatil2002/Maven_movies_project/blob/main/Code%20Output/REWARD_VIA_PHONE.png)
 
 ### 13. Payments from First 100 Customers
 ![First 100 Customer Payments](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FIRST_100_CUSTOMER_PAYMENTS.png)
