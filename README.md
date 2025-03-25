@@ -127,7 +127,7 @@ Retrieve customer first name, last name, and email ID.
 ![Age-Based Recommendations](https://github.com/manasvipatil2002/Maven_movies_project/blob/main/Code%20Output/RECOMMENDATION_SYSTEM.png)
 
 ### 25. Films Inventory List
-![Films in Inventory](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FILMS_IN_INVENTORY.png)
+![Films in Inventory](https://github.com/manasvipatil2002/Maven_movies_project/blob/main/Code%20Output/FILM_INVENTORY.png)
 
 ### 26. Actor Movie Count
 ![Actor Movie Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/NO_OF_FILMS_BY_ACTOR.png)
