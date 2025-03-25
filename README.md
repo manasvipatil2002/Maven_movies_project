@@ -73,7 +73,7 @@ Retrieve customer first name, last name, and email ID.
 ![Film List](https://github.com/manasvipatil2002/Maven_movies_project/blob/main/Code%20Output/CATEGORY_NAME.png)
 
 ### 7. Movie Rental Frequency
-![Rental Popularity](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/popularity.png)
+![Rental Popularity](https://github.com/manasvipatil2002/Maven_movies_project/blob/main/Code%20Output/POPULARITY.png)
 
 ### 8. Top 10 Grossing Films
 ![Revenue per Film](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/REVENUE.png)
