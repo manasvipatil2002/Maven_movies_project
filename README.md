@@ -1,4 +1,3 @@
-]
 # 🎬 Maven Movies: Unlocking Insights for a Rental Business
 
 ![Project Banner](https://github.com/Sayali821/Mavenmovies/blob/200eb076804152c5e1ba46638a60a3a5d01c34c1/banner.jpg)
@@ -59,7 +58,7 @@ Retrieve customer first name, last name, and email ID.
 ![Customer Info](https://github.com/manasvipatil2002/Maven_movies_project/blob/main/Code%20Output/CUSTOMER_TABLE.png)
 
 ### 2. Count of Movies with Rental Rate of $0.99
-![Cheapest Rental](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/CHEAPEST_RENTAL.png)
+![Cheapest Rental](https://github.com/manasvipatil2002/Maven_movies_project/blob/main/Code%20Output/CHEAPEST_RENTALS.png)
 
 ### 3. Rental Rate Distribution and Movie Count
 ![Total Movies per Rental Rate](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/TOTAL_NO_OF_MOVIES.png)
