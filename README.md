@@ -1,6 +1,6 @@
 # 🎬 Maven Movies: Unlocking Insights for a Rental Business
 
-![Project Banner]https://github.com/manasvipatil2002/Maven_movies_project/blob/main/maven%20movie.jpeg ,width="600" height="300"/>&nbsp;
+![Project Banner] (https://github.com/manasvipatil2002/Maven_movies_project/blob/main/maven%20movie.jpeg ,width="600" height="300"/>&nbsp;)
 
 ## 📌 Project Overview
 This project focuses on analyzing the *MAVENMOVIES* database to extract valuable insights that can enhance business operations, marketing strategies, and inventory management. SQL is extensively used to perform exploratory data analysis (EDA), understand the database schema, and answer critical business queries.
